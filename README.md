@@ -1,2 +1,2 @@
 # TestsCppAG
-Cpp test for job
+Cpp tests
